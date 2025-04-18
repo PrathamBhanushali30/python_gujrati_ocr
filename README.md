@@ -29,7 +29,7 @@ The server processes the image and sends back the extracted text
 
 Run the provided Python server script
 
-`python app.py`
+*main.exe*
 
 The server will listen for incoming image uploads via the app
 
