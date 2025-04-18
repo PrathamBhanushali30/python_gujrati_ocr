@@ -59,6 +59,13 @@ The Python server must be running on the PC before using the app
 
 You will need to set the correct IP address of the PC in the app (matching your local network IP)
 
+## Testing
+You can just test this project from the terminal as well.
+
+just redirect to the directory **Test**
+
+run `python test_api.py`
+
 
 ## 📚 Disclaimer
 This app uses offline OCR and NLP services on your local network
