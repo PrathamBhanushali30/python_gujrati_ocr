@@ -26,8 +26,11 @@ The app sends the image to a Python server running on your PC for OCR processing
 The server processes the image and sends back the extracted text
 
 ### 🖥️ On your PC:
+First install all the required libraries by executing the given command
 
-Run the provided Python server script
+`pip install -r requirements.txt`
+
+Now run the provided Python server script
 
 *main.exe*
 
