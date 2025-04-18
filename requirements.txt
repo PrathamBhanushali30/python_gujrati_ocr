@@ -1,0 +1,6 @@
+flask
+pytesseract
+Pillow
+nltk
+opencv-python
+langdetect
