@@ -3,9 +3,13 @@ This is an Android mobile application that lets you capture or upload handwritte
 
 ## 📌 App Features
 ✅ Capture or upload handwritten Gujarati text images
+
 ✅ Extract readable Gujarati text using OCR
+
 ✅ Process and clean up the extracted text
+
 ✅ Display results clearly within the app
+
 ✅ Lightweight and easy-to-use offline app interface
 
 ## 📥 How to Use
@@ -25,7 +29,7 @@ The server processes the image and sends back the extracted text
 
 Run the provided Python server script
 
-*pyhton app.py*
+`python app.py`
 
 The server will listen for incoming image uploads via the app
 
